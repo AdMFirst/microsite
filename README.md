@@ -1,10 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Microsite example for personal portofolio
+
+In this project we attempt to build a customized portofolio microsite. Building a custom microsite usually isn't worth the trouble. Use [Linktree](https://linktr.ee/), [Shorby](https://dash.shor.by/smartpage?&lp), or [s.id](https://home.s.id/microsite) instead.
 
 ## License
 
 This project are licensed under [Closed Source License](https://github.com/kolappannathan/closed-source-license).
 
-'''
+```
 All Rights Reserved
 
 Copyright (c) 2024 ADITYA MP (admfirst)
@@ -22,4 +25,4 @@ whether in an action of contract, tort or otherwise, arising from, out of or in 
 or the use or other dealings in the software.
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the software.
-'''
+```
