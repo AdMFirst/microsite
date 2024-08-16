@@ -3,7 +3,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import https from 'https';
 
 export async function GET(req: NextRequest) {
-  const url = 'https://css4.pub/2015/usenix/example.pdf';
+  const url = process.env.MOCK_PDF_URL ?? "https://pii.or.id/uploads/dummies.pdf";
 
   return new Promise<NextResponse>((resolve, reject) => {
     https.get(url, (response) => {
