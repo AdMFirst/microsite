@@ -5,7 +5,7 @@ import https from 'https';
 export async function GET(req: NextRequest) {
   const url = 'https://css4.pub/2015/usenix/example.pdf';
 
-  return new Promise((resolve, reject) => {
+  return new Promise<NextResponse>((resolve, reject) => {
     https.get(url, (response) => {
       if (response.statusCode !== 200) {
         resolve(
