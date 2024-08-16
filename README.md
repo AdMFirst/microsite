@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-# Microsite example for personal portofolio
+# Microsite example for my personal portofolio
 
 In this project we attempt to build a customized portofolio microsite. Building a custom microsite usually isn't worth the trouble. Use [Linktree](https://linktr.ee/), [Shorby](https://dash.shor.by/smartpage?&lp), or [s.id](https://home.s.id/microsite) instead.
 
